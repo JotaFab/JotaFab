@@ -24,7 +24,7 @@ Soy un analista de ciberseguridad, pentester y desarrollador backend especializa
 
 ### 🧰 Tecnologías y Herramientas
 
-- **Lenguajes:** Go · Python · Bash · Ruby · JavaScript  
+- **Lenguajes:** Go · Python · Bash · JavaScript  
 - **Ciberseguridad:** Burp Suite · Wireshark · Nmap · Metasploit · Kali Linux  
 - **Infraestructura:** Active Directory · Proxmox · KVM · VMware · iptables  
 - **DevOps:** Docker · Git · GitHub Actions · AWS · GCP  

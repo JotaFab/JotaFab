@@ -1,7 +1,7 @@
 # 👋 Hola, soy Jorge Fabrizio Ore Cordova (aka Diraisiel)
 
 **Cybersecurity Analyst** · **Bug Bounty Hunter** · **Go Developer**  
-📍 Huancayo, Perú | 🧠 Aprendiz constante | 🛡️ Apasionado por la ciberseguridad
+📍 Perú | 🧠 Aprendiz constante | 🛡️ Apasionado por la ciberseguridad
 
 ---
 

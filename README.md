@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jorge Fabrizio Ore Cordova (aka Diraisiel)
+
 
 **Cybersecurity Analyst** · **Bug Bounty Hunter** · **Go Developer**  
 
@@ -15,20 +15,4 @@
 
 ---
 
-### 🔐 Sobre mí
 
-Soy un analista de ciberseguridad, pentester y desarrollador backend especializado en Golang. Me dedico a encontrar y reportar vulnerabilidades, escribir exploits y construir soluciones seguras para la web y sistemas de infraestructura.
-
----
-
-### 🧰 Tecnologías y Herramientas
-
-- **Lenguajes:** Go · Python · Bash · JavaScript  
-- **Ciberseguridad:** Burp Suite · Wireshark · Nmap · Metasploit · Linux  
-- **Infraestructura:** Active Directory · Proxmox · KVM · VMware · iptables  
-- **DevOps:** Docker · Git · GitHub Actions · AWS · GCP  
-- **Bases de Datos:** MySQL · SQLite · Redis  
-
----
-
-> “La seguridad no es un producto, es un proceso.” — Bruce Schneier
